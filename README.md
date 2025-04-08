@@ -9,6 +9,16 @@ The original target screen size is `2560 x 1440` with normal UI scaling. There a
 
 Zip archives for both sizes are available under Releases.
 
+## Preview
+
+### Major
+
+![guild wars 2 screenshot showing larger reffect addon](./_preview/gift-of-arcana-major.webp)
+
+### Minor
+
+![guild wars 2 screenshot showing smaller reffect addon](./_preview/gift-of-arcana-minor.webp)
+
 ## Design Notes
 
 Loosely inspired by the native GW2 UI style. Boons are laid out in a slightly asymmetric layout so that active boons can be identified easier at a glance by reinforcing with unique positions in addition to icons. Boons are split up similar to the Training Golem:
