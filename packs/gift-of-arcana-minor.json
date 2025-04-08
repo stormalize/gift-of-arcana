@@ -1,7 +1,7 @@
 {
   "schema": "v1",
   "enabled": true,
-  "name": "gift-of-arcana",
+  "name": "gift-of-arcana-minor",
   "anchor": {
     "Screen": "BottomCenter"
   },
