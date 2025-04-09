@@ -25,6 +25,6 @@ Loosely inspired by the native GW2 UI style. Boons are laid out in a slightly as
 
 - **Offensive: Sword** - Damage ramping up in the heat of combat. Fury in the pommel, Might in the blade
 - **Utility: Book** - Spellbook, or maybe tactician's battle handbook. Quickness, Alacrity, Swiftness, Regeneration, Vigor
-- **Defensive: Shield** - Aegis, Protection, Resolution, Resistance, Stability
+- **Defensive: Shield** - Deflect and mitigate incoming damage. Aegis, Protection, Resolution, Resistance, Stability
 
 Key boons are given a bit more prominence for crucial moments during encounters.
